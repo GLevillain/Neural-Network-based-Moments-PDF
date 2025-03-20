@@ -33,6 +33,7 @@ conda env create -f environment.yml
 
 This work is licensed under a [CC-by-nc Creative Commons Attribution 4.0 Unported License](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en").
 For details, see the [LICENSE](https://github.com/GLevillain/Neural-Network-based-Moments-PDF/blob/main/LICENSE.md) file.
+
 ---
 
 ## Acknowledgments
